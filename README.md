@@ -1,6 +1,6 @@
-# Spintris
+# SpinTetris
 
-Spintris is a minimal watchOS SwiftUI falling-block game inspired by Tetris. It is designed for Apple Watch, with Digital Crown rotation for horizontal movement and compact on-screen gestures for rotation and hard drop.
+SpinTetris is a minimal watchOS SwiftUI falling-block game inspired by Tetris. It is designed for Apple Watch, with Digital Crown rotation for horizontal movement and compact on-screen gestures for rotation and hard drop.
 
 
 <img src="Preview/face-01.png" width="240">
@@ -32,4 +32,4 @@ open CrownBlocks.xcodeproj
 
 Select the `CrownBlocks` scheme and a Watch simulator, then run.
 
-The built app product is named `Spintris.app`.
+The built app product is named `SpinTetris.app`.
